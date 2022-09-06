@@ -1,3 +1,3 @@
 FROM debezium/postgres:11
 
-COPY postgres.sql /docker-entrypoint-initdb.d/
+COPY data_set1.sql /docker-entrypoint-initdb.d/

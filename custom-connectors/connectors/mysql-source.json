@@ -9,6 +9,8 @@
     "database.password": "debeziumpw",
     "database.server.name": "local",
     "database.include.list": "class",
+    "value.converter": "org.apache.kafka.connect.json.JsonConverter",
+    "value.converter.schemas.enable": false,
     "transforms": "unwrap",
     "transforms.unwrap.type": "io.debezium.transforms.ExtractNewRecordState",
     "transforms.unwrap.drop.tombstones": "true",

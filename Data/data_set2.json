@@ -1,0 +1,202 @@
+[
+  {
+    "_id": 26,
+    "first_name": "Brady",
+    "last_name": "Scadden",
+    "email": "bscaddenp@tinyurl.com",
+    "gender": "Male",
+    "Marks": 37
+  },
+  {
+    "_id": 27,
+    "first_name": "Kristopher",
+    "last_name": "Dine-Hart",
+    "email": "kdinehartq@cocolog-nifty.com",
+    "gender": "Male",
+    "Marks": 3
+  },
+  {
+    "_id": 28,
+    "first_name": "Barbabas",
+    "last_name": "Albasiny",
+    "email": "balbasinyr@technorati.com",
+    "gender": "Male",
+    "Marks": 29
+  },
+  {
+    "_id": 29,
+    "first_name": "Lowe",
+    "last_name": "Treffry",
+    "email": "ltreffrys@ezinearticles.com",
+    "gender": "Non-binary",
+    "Marks": 2
+  },
+  {
+    "_id": 30,
+    "first_name": "Karlotta",
+    "last_name": "Exposito",
+    "email": "kexpositot@rambler.ru",
+    "gender": "Female",
+    "Marks": 3
+  },
+  {
+    "_id": 31,
+    "first_name": "Glenn",
+    "last_name": "Earpe",
+    "email": "gearpeu@fc2.com",
+    "gender": "Female",
+    "Marks": 55811
+  },
+  {
+    "_id": 32,
+    "first_name": "Hewitt",
+    "last_name": "Pellamont",
+    "email": "hpellamontv@cargocollective.com",
+    "gender": "Male",
+    "Marks": 66557
+  },
+  {
+    "_id": 33,
+    "first_name": "Domingo",
+    "last_name": "Pickersail",
+    "email": "dpickersailw@squarespace.com",
+    "gender": "Male",
+    "Marks": 88
+  },
+  {
+    "_id": 34,
+    "first_name": "Orion",
+    "last_name": "Crippell",
+    "email": "ocrippellx@theatlantic.com",
+    "gender": "Male",
+    "Marks": 2
+  },
+  {
+    "_id": 35,
+    "first_name": "Eryn",
+    "last_name": "Manilow",
+    "email": "emanilowy@oracle.com",
+    "gender": "Female",
+    "Marks": 865
+  },
+  {
+    "_id": 36,
+    "first_name": "Abigael",
+    "last_name": "Moses",
+    "email": "amosesz@nasa.gov",
+    "gender": "Female",
+    "Marks": 7993
+  },
+  {
+    "_id": 37,
+    "first_name": "Clementia",
+    "last_name": "McDavitt",
+    "email": "cmcdavitt10@topsy.com",
+    "gender": "Genderfluid",
+    "Marks": 9
+  },
+  {
+    "_id": 38,
+    "first_name": "Westley",
+    "last_name": "Ferro",
+    "email": "wferro11@craigslist.org",
+    "gender": "Male",
+    "Marks": 8
+  },
+  {
+    "_id": 39,
+    "first_name": "Kandy",
+    "last_name": "Pahlsson",
+    "email": "kpahlsson12@ehow.com",
+    "gender": "Female",
+    "Marks": 241
+  },
+  {
+    "_id": 40,
+    "first_name": "Rees",
+    "last_name": "Heyburn",
+    "email": "rheyburn13@jugem.jp",
+    "gender": "Male",
+    "Marks": 0
+  },
+  {
+    "_id": 41,
+    "first_name": "Gerald",
+    "last_name": "Woolveridge",
+    "email": "gwoolveridge14@aboutads.info",
+    "gender": "Male",
+    "Marks": 51166
+  },
+  {
+    "_id": 42,
+    "first_name": "Charles",
+    "last_name": "Haffard",
+    "email": "chaffard15@ning.com",
+    "gender": "Male",
+    "Marks": 328
+  },
+  {
+    "_id": 43,
+    "first_name": "Ryon",
+    "last_name": "Lewis",
+    "email": "rlewis16@tumblr.com",
+    "gender": "Male",
+    "Marks": 57059
+  },
+  {
+    "_id": 44,
+    "first_name": "Gifford",
+    "last_name": "Mayzes",
+    "email": "gmayzes17@nature.com",
+    "gender": "Male",
+    "Marks": 60978
+  },
+  {
+    "_id": 45,
+    "first_name": "Ring",
+    "last_name": "Clerc",
+    "email": "rclerc18@statcounter.com",
+    "gender": "Polygender",
+    "Marks": 8
+  },
+  {
+    "_id": 46,
+    "first_name": "Alexia",
+    "last_name": "MacGorrie",
+    "email": "amacgorrie19@addthis.com",
+    "gender": "Genderfluid",
+    "Marks": 3023
+  },
+  {
+    "_id": 47,
+    "first_name": "Morlee",
+    "last_name": "Sleightholm",
+    "email": "msleightholm1a@mail.ru",
+    "gender": "Male",
+    "Marks": 1985
+  },
+  {
+    "_id": 48,
+    "first_name": "Demetri",
+    "last_name": "Esler",
+    "email": "desler1b@alexa.com",
+    "gender": "Male",
+    "Marks": 33
+  },
+  {
+    "_id": 49,
+    "first_name": "Kendricks",
+    "last_name": "Beckham",
+    "email": "kbeckham1c@symantec.com",
+    "gender": "Male",
+    "Marks": 529
+  },
+  {
+    "_id": 50,
+    "first_name": "Ilise",
+    "last_name": "Swayland",
+    "email": "iswayland1d@jigsy.com",
+    "gender": "Female",
+    "Marks": 391
+  }
+]

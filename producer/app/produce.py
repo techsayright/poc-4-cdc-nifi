@@ -10,7 +10,7 @@ my_producer = KafkaProducer(
     value_serializer=lambda x:dumps(x).encode('utf-8')
 )
 
-with open('./subchapter.csv') as file:
+with open('./data_set1.csv') as file:
     reader = csv.DictReader(file, delimiter=",")
     for row in reader:
         my_producer.send('file.subchap', value = row)
